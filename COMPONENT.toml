@@ -3,7 +3,7 @@ name = "SigmaOS-gamemode"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gamemode component"
+description = "SigmaOS SigmaOS-gamemode component"
 upstream = []
 
 [contract]
