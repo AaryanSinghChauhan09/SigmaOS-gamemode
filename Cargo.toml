@@ -6,7 +6,11 @@ license = "MIT"
 description = "SigmaOS gamemode component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [dependencies]
+log = "0.4"
+sigmaos-component-core = { git = "https://github.com/AaryanSinghChauhan09/SigmaOS-component-core" }
 
 [lib]
 name = "sigmaos_gamemode"
 path = "src/lib.rs"
+
+log = "0.4"
